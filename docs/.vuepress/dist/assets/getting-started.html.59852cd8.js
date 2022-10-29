@@ -1,0 +1,2 @@
+import{_ as n,r as a,o as r,c as s,a as e,b as c,w as l,d as t}from"./app.ea399075.js";const d={},i=e("h2",{id:"hello",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello","aria-hidden":"true"},"#"),t(" Hello")],-1),_=e("pre",null,[e("code",null,`This is Documentation
+`)],-1);function h(u,m){const o=a("RouterLink");return r(),s("div",null,[i,_,e("p",null,[c(o,{to:"/"},{default:l(()=>[t("Home")]),_:1})])])}const p=n(d,[["render",h],["__file","getting-started.html.vue"]]);export{p as default};
