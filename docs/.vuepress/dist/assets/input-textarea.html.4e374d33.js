@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a}from"./app.e0687ac5.js";const c={},n=a("p",null,"hello",-1),_=[n];function s(r,l){return t(),o("div",null,_)}const u=e(c,[["render",s],["__file","input-textarea.html.vue"]]);export{u as default};

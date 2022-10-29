@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as c,c as s,a as e,d as a,b as l}from"./app.e0687ac5.js";const r={},_=e("p",null,[e("code",null,"InputText"),l(" is a cool component. Here's how to use it...")],-1);function p(u,i){const t=n("input-text");return c(),s("div",null,[_,e("template",null,[a(t)])])}const m=o(r,[["render",p],["__file","input-text.html.vue"]]);export{m as default};
